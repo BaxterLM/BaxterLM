@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaxterLM
 - 👀 I’m interested in ... getting better at coding.
-- 🌱 I’m currently learning ... how to build a webiste.
-- 💞️ I’m looking to collaborate on ... projects to work on my skills. 
+- 🌱 I’m currently learning ... how to build a website.
+- 💞️ I’m looking to collaborate on ... projects to work on my skills and improve my coding. 
 - 📫 How to reach me ... 
 
 <!---
